@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Favour Williams/Documents/projects/jose/llama_flutter_integration/android/app/.cxx/Debug/5x104a2k/arm64-v8a",
+  "command": "C:\\Users\\FAVOUR~1\\AppData\\Local\\Android\\Sdk\\ndk\\231~1.777\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\CLANG_~1.EXE --target=aarch64-none-linux-android21 --sysroot=\"C:/Users/Favour Williams/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot\" -Dllama_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\llama.dir\\llama.cpp.o -c \"C:\\Users\\Favour Williams\\Documents\\projects\\jose\\llama_flutter_integration\\android\\app\\src\\main\\cpp\\llama.cpp\"",
+  "file": "C:\\Users\\Favour Williams\\Documents\\projects\\jose\\llama_flutter_integration\\android\\app\\src\\main\\cpp\\llama.cpp"
+},
+{
+  "directory": "C:/Users/Favour Williams/Documents/projects/jose/llama_flutter_integration/android/app/.cxx/Debug/5x104a2k/arm64-v8a",
+  "command": "C:\\Users\\FAVOUR~1\\AppData\\Local\\Android\\Sdk\\ndk\\231~1.777\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\CLANG_~1.EXE --target=aarch64-none-linux-android21 --sysroot=\"C:/Users/Favour Williams/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot\" -Dllama_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\llama.dir\\llama_jni.cpp.o -c \"C:\\Users\\Favour Williams\\Documents\\projects\\jose\\llama_flutter_integration\\android\\app\\src\\main\\cpp\\llama_jni.cpp\"",
+  "file": "C:\\Users\\Favour Williams\\Documents\\projects\\jose\\llama_flutter_integration\\android\\app\\src\\main\\cpp\\llama_jni.cpp"
+}
+]

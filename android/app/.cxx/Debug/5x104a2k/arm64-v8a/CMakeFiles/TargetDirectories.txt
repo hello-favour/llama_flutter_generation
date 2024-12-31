@@ -1,0 +1,3 @@
+C:/Users/Favour Williams/Documents/projects/jose/llama_flutter_integration/android/app/.cxx/Debug/5x104a2k/arm64-v8a/CMakeFiles/llama.dir
+C:/Users/Favour Williams/Documents/projects/jose/llama_flutter_integration/android/app/.cxx/Debug/5x104a2k/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Favour Williams/Documents/projects/jose/llama_flutter_integration/android/app/.cxx/Debug/5x104a2k/arm64-v8a/CMakeFiles/rebuild_cache.dir

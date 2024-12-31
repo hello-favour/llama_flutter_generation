@@ -1,0 +1,5 @@
+# ninja log v5
+1	5034	7571156394383394	CMakeFiles/llama.dir/llama.cpp.o	1b80a89f7825c54e
+17	5068	7571156394668624	CMakeFiles/llama.dir/llama_jni.cpp.o	3fdab05ea80dbb4
+0	12	0	clean	1627f344370dae30
+0	12	0	clean	1627f344370dae30
